@@ -1,3 +1,0 @@
-E:/Git/1/curriculum_design-master/SoftwareArchitecture/linux server/out/build/x64-Debug/CMakeFiles/chat_server_clion.dir
-E:/Git/1/curriculum_design-master/SoftwareArchitecture/linux server/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-E:/Git/1/curriculum_design-master/SoftwareArchitecture/linux server/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
