@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roott/home/roott/Server.h
+
+/home/roott/home/roott/main.cpp
+iostream
+-
+signal.h
+-
+Server.h
+/home/roott/home/roott/Server.h
+unistd.h
+-
+stdlib.h
+-
+cstdio
+-
+fcntl.h
+-
+

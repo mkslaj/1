@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="serve" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/roott/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/roott/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="serve">
+         <Option output="/home/roott/cmake-build-debug/serve" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/roott/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 serve" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="serve/fast">
+         <Option output="/home/roott/cmake-build-debug/serve" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/roott/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 serve/fast" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/home/roott/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/roott/BaseASN1.cpp">
+      </Unit>
+      <Unit filename="/home/roott/Codec.cpp">
+      </Unit>
+      <Unit filename="/home/roott/CodecFactory.cpp">
+      </Unit>
+      <Unit filename="/home/roott/ItcastLog.cpp">
+      </Unit>
+      <Unit filename="/home/roott/OCCIOP.cpp">
+      </Unit>
+      <Unit filename="/home/roott/RequestCodec.cpp">
+      </Unit>
+      <Unit filename="/home/roott/RequestFactory.cpp">
+      </Unit>
+      <Unit filename="/home/roott/RespondCodec.cpp">
+      </Unit>
+      <Unit filename="/home/roott/RespondFactory.cpp">
+      </Unit>
+      <Unit filename="/home/roott/SecKeyShm.cpp">
+      </Unit>
+      <Unit filename="/home/roott/SequenceASN1.cpp">
+      </Unit>
+      <Unit filename="/home/roott/ServerOperation.cpp">
+      </Unit>
+      <Unit filename="/home/roott/ShareMemory.cpp">
+      </Unit>
+      <Unit filename="/home/roott/TcpServer.cpp">
+      </Unit>
+      <Unit filename="/home/roott/TcpSocket.cpp">
+      </Unit>
+      <Unit filename="/home/roott/main.cpp">
+      </Unit>
+      <Unit filename="/home/roott/BaseASN1.h">
+      </Unit>
+      <Unit filename="/home/roott/Codec.h">
+      </Unit>
+      <Unit filename="/home/roott/CodecFactory.h">
+      </Unit>
+      <Unit filename="/home/roott/ItcastLog.h">
+      </Unit>
+      <Unit filename="/home/roott/OCCIOP.h">
+      </Unit>
+      <Unit filename="/home/roott/RequestCodec.h">
+      </Unit>
+      <Unit filename="/home/roott/RequestFactory.h">
+      </Unit>
+      <Unit filename="/home/roott/RespondCodec.h">
+      </Unit>
+      <Unit filename="/home/roott/RespondFactory.h">
+      </Unit>
+      <Unit filename="/home/roott/SecKeyShm.h">
+      </Unit>
+      <Unit filename="/home/roott/SequenceASN1.h">
+      </Unit>
+      <Unit filename="/home/roott/ServerOperation.h">
+      </Unit>
+      <Unit filename="/home/roott/ShareMemory.h">
+      </Unit>
+      <Unit filename="/home/roott/TcpServer.h">
+      </Unit>
+      <Unit filename="/home/roott/TcpSocket.h">
+      </Unit>
+      <Unit filename="/home/roott/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/LibServer.dir/main.cpp.o CMakeFiles/LibServer.dir/libeventServer.cpp.o  -o LibServer -rdynamic /usr/local/lib/libevent.so -Wl,-rpath,/usr/local/lib 

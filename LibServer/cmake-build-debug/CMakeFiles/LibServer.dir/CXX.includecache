@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roott/LibServer/main.cpp
+iostream
+-
+event2/event.h
+-
+arpa/inet.h
+-
+event2/listener.h
+-
+event2/bufferevent.h
+-
+event2/buffer.h
+-
+

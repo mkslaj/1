@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9153c15-bf17-4141-b8a6-0dfbc4f9a4e4" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/ipch/AutoPCH/8e15cd8e5e578b37/SPEECH.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../演讲比赛程序/.vs/演讲比赛程序/v16/ipch/AutoPCH/8e15cd8e5e578b37/SPEECH.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../职工管理系统/.vs/职工管理系统/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../职工管理系统/.vs/职工管理系统/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../职工管理系统/.vs/职工管理系统/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../职工管理系统/.vs/职工管理系统/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/ipch/AutoPCH/dc71c0fd2cb7637c/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../通讯录/.vs/通讯录/v16/ipch/AutoPCH/dc71c0fd2cb7637c/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../通讯录/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../通讯录/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OkRGwesR7WSl2Md56EThqca13D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "STL的基本应用",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Git/1/STL项目联系 打分系统/player.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git\1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ 文件.player.cpp">
+    <configuration name="未命名" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="player.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STL项目联系 打分系统" TARGET_NAME="player.cpp" CONFIG_NAME="player.cpp">
+      <option name="sourceFile" value="E:\Git\1\STL项目联系 打分系统\player.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.player.cpp" />
+      <item itemvalue="CMake 应用程序.未命名" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a9153c15-bf17-4141-b8a6-0dfbc4f9a4e4" name="更改" comment="" />
+      <created>1682102501977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682102501977</updated>
+      <workItem from="1682102503774" duration="149000" />
+      <workItem from="1682239040187" duration="223000" />
+      <workItem from="1682261295140" duration="411000" />
+      <workItem from="1682321926780" duration="424000" />
+      <workItem from="1682346686356" duration="60000" />
+      <workItem from="1682346753836" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

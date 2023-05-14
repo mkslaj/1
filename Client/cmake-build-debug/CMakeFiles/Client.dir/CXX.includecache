@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roott/Client/Socket.h
+netinet/in.h
+-
+
+/home/roott/Client/main.cpp
+iostream
+-
+cstdlib
+-
+Socket.h
+/home/roott/Client/Socket.h
+
